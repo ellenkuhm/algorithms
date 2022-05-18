@@ -1,0 +1,13 @@
+h1 {color: darkslategrey}
+div#header {background-image: url("background1.jpg");
+}
+div.ingredients_div {background: url("background.avif")}
+
+div {padding: 5px;
+background-color: ivory;
+font-family: Georgia;
+color: indigo}
+
+div.instructions_div {background-color: cornsilk}
+
+
